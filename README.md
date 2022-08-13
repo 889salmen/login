@@ -1,6 +1,6 @@
 # login
 sebuah aplikasi loginnnnakahaa
-apa apa
-apa apa
+1. apa apa
+2. apa apa
 kecepetan i
 ini cuma latihan
